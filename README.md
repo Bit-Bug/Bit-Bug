@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bit-Bug
-- 👀 I’m interested in software architecture
+- 🪂 I’m interested in software architecture
 - 🌱 I’m currently learning everything related to system design / cloud computing /  distributed systems / blockchains
-- 💞️ I’m looking to collaborate on blockchain open source projects
+- 👀 I’m looking to collaborate on blockchain open source projects
 - 📫 How to reach me : bitbug.devlab@gmail.com
 
 <!---
